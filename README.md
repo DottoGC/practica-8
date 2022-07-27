@@ -1,6 +1,4 @@
-# practica8_sa
-Laboratorio de Software Avanzado
-USAC
+# Comunicacion entre dos contenedores
 
 Descripcion: 
     Crear al menos dos contenedores en Docker Compose que involucren:
@@ -12,4 +10,8 @@ El servidor web debe hacer alguna consulta a la base (lenguaje libre) y presenta
 # LINK VIDEO
 https://youtu.be/ua5e8Kr45vE
 
-
+#
+Practica 8
+Software Avanzado
+Laboratorio
+USAC

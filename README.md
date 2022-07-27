@@ -1,4 +1,4 @@
-# Comunicacion entre dos contenedores
+# Comunicacion entre dos contenedores docker
 
 Descripcion: 
     Crear al menos dos contenedores en Docker Compose que involucren:
